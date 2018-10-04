@@ -1,3 +1,6 @@
+# Our Solution
+The idea behind our solution is to actively track the price of insuring items. This would help people to more intuitively compare items to decide which to insure and which not.
+
 # kickr
 This project is used in the [Build an augmented reality app on Root insurance](https://make.offerzen.com/course/root-insurance-augmented-reality) course, at [Make by OfferZen](https://make.offerzen.com/).
 
